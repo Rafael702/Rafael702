@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Rafael Santos </h1>
-<h3 align = "center"> Sou um amanta da tecnologia e quero trabalhar programando !!! </h3>
+<h3 align = "center"> Sou um amante da tecnologia e quero trabalhar programando !!! </h3>
 
 <h3 align = "left "> Conecte-se a mim: </h3>
 <p align =" left ">

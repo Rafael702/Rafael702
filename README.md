@@ -8,5 +8,11 @@
 <a href="https://linkedin.com/in/rafael-santos-de-almeida-8a65381b3/" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "rafael-santos-de-almeida-8a65381b3 /" height = "30" width = "40" /> </a>
 </p>
 
+<h3>Tecnologias que domino: </h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+
+
+
 
 

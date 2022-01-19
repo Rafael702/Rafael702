@@ -23,11 +23,14 @@
 
 <div>
 <a href="https://github.com/Rafael702">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael702&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rafael702&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael702&layout=compact&langs_count=7&theme=gruvbox"/>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Rafael702&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
 <h3>Estou Aprendendo</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="80" />
 
 
 <h3>Tecnologias Que Já tive Contato</h3>

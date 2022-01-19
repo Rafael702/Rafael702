@@ -21,10 +21,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="100" height="100"/>
 </div>
 
+<div>
+<a href="https://github.com/Rafael702">
+<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael702&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200rem" src="https://github-readme-stats.vercel.app/api?username=Rafael702&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <h3>Estou Aprendendo</h3>
 
 
 <h3>Tecnologias Que Já tive Contato</h3>
+  
+![Snake animation](https://github.com/Rafael702/Rafael702/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
